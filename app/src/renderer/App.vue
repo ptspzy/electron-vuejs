@@ -6,6 +6,7 @@
             <ul class="demolist">
                 <li><router-link to="/">首页</router-link></li>
                 <li><router-link to="/page1"><span></span>page1<i></i></router-link></li>
+                <li><router-link to="/page2"><span></span>page2<i></i></router-link></li>
             </ul>
 
         </div>
